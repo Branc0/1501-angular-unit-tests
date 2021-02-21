@@ -24,7 +24,7 @@ describe("O formulário SignUp", () => {
         ReactiveFormsModule,
         RouterTestingModule.withRoutes([])
       ]
-    }).compileComponents;
+    }).compileComponents();
   }));
 
   beforeEach(() => {
